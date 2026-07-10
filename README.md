@@ -3,7 +3,7 @@
 18, PHINMA-UPang
 
 
-swe ✮ full-stack developer 
+game developer ✮ full-stack developer 
 
 ## Web Portfolio
 
