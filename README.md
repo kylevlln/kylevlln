@@ -1,10 +1,13 @@
-## About
+18 • PHINMA-UPang
 
-18, PHINMA-UPang
+**Game Developer ✮ Full-Stack Developer**
 
+## Portfolio
 
-game developer ✮ full-stack developer 
+<a href="https://spencercalimlim.vercel.app">
+  <img src="yes22.png" alt="Visit my portfolio">
+</a>
 
-## Web Portfolio
+---
 
-![](yes22.png)
+Building games, web apps, and anything that solves interesting problems.
